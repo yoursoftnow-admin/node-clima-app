@@ -18,5 +18,5 @@ npm install
 ### Ejemplo:
 
 ```
-node app * d 'El sauce, leon'
+node app -d 'El sauce, leon'
 ```
